@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is an **unofficial** version of Bloxstrap.
+
 > [!CAUTION]
 > The only official places to download Bloxstrap are this GitHub repository and [(Offical)Bloxstrap](https://bloxstraplabs.com) (**Website version does not have custom fixes**). Any other websites offering downloads or claiming to be us are not controlled by us.
 
